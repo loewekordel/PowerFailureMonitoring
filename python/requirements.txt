@@ -1,0 +1,3 @@
+requests==2.31.0
+simplepush==2.2.3
+thingspeak==1.0.0
